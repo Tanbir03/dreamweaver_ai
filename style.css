@@ -92,7 +92,11 @@
   padding: 0 25px;
   cursor: pointer;
   border-radius: 30px;
-  background: #30309e;
+  background: #2f2f8b;
+}
+
+.generate-form .generate-btn:hover{
+  background: #242473;
 }
 
 .image-gallery {
