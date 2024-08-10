@@ -1,10 +1,23 @@
+import huggingFace
+
 const generateForm = document.querySelector(".generate-form");
 const imageGallery = document.querySelector(".image-gallery");
 
+const HF_KEY = "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"
+
 const generateAIImage = async (userPrompt, userImgQuantity) => {
     try{
-        const response = await fetch("https://api.openai.com/v1/images/generations", {
-            
+        const response = await fetch("https://huggingface.co/CompVis/stable-diffusion-v1-4", {
+                method: "POST",
+                headers: {
+                    "Content-Type: application/json",
+                    "Authorization": `Bearer ${HF_KEY}}`
+                },
+            body: JSON.stringify({
+                "prompt": userPrompt,
+                n: userImgQuantity,
+                response_format:"b64_json"
+            })
         });
     }catch(error){
         console.log(error);
