@@ -1,4 +1,4 @@
-import huggingFace
+
 
 const generateForm = document.querySelector(".generate-form");
 const imageGallery = document.querySelector(".image-gallery");
