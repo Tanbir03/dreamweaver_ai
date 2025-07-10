@@ -41,8 +41,9 @@
 
 | Prompt | Output |
 |--------|--------|
-| *"Astronaut riding a unicorn in space"* | ![Example](./public/images/img-1.jpg) |
-| *"Cyberpunk city in the rain, at night"* | ![Example](./public/images/img-2.jpg) |
+| *"Astronaut riding a unicorn in space"* | <img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/e802ea7d-8bc8-46b1-be93-61c663c0f62b" />|
+| *"Cyberpunk city in the rain, at night"* | <img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/c831c648-d83d-4783-8623-b66416d0a56b" />
+ |
 
 ---
 
@@ -113,7 +114,7 @@ http://localhost:5000
 * 💬 Fully customizable UI + backend API
 * 🛠️ Ready for future local deployment with `diffusers`
 
----
+
 
 ## 📁 File Structure
 
@@ -129,6 +130,17 @@ dreamweaver_ai/
 ├── package.json
 └── README.md ← You're here!
 ```
+
+
+## ✨ UI Preview
+
+> A glimpse of the Dreamweaver AI interface:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e4d1b714-3d36-40b9-bd64-476d4b2bb65e" alt="Dreamweaver UI" width="90%">
+</p>
+
+
 
 ---
 
@@ -174,6 +186,4 @@ If this project inspired you, please:
 MIT License © [Mrinal Mondal](https://github.com/mrin9)
 Use it, modify it, break it, fix it — just don’t forget to dream with it ✨
 
----
 
-Would you like this `README.md` exported as a file or previewed inside your repo for instant use?
