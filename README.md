@@ -42,8 +42,7 @@
 | Prompt | Output |
 |--------|--------|
 | *"Astronaut riding a unicorn in space"* | <img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/e802ea7d-8bc8-46b1-be93-61c663c0f62b" />|
-| *"Cyberpunk city in the rain, at night"* | <img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/c831c648-d83d-4783-8623-b66416d0a56b" />
- |
+| *"Cyberpunk city in the rain, at night"* | <img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/c831c648-d83d-4783-8623-b66416d0a56b" />|
 
 ---
 
