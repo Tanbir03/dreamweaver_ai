@@ -150,15 +150,6 @@ dreamweaver_ai/
 
 A perfect balance of design & deep tech — thank you, Tanbir!
 
----
-
-## 🧭 Roadmap
-
-* [ ] 🌍 Deploy on Render/Vercel with model switch
-* [ ] 🧾 Prompt templates and creative mode
-* [ ] 🖌️ Style + image conditioning
-* [ ] 💡 Offline support via `diffusers`
-* [ ] 🌐 Multilingual prompt support
 
 ---
 
